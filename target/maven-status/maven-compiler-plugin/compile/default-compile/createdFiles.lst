@@ -1,2 +1,4 @@
-com/javaunit3/springmvc/SpringmvcApplication.class
+com/javaunit3/springmvc/HibernateConfig.class
+com/javaunit3/springmvc/model/MovieEntity.class
 com/javaunit3/springmvc/MovieController.class
+com/javaunit3/springmvc/SpringmvcApplication.class

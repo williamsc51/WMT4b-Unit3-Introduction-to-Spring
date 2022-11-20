@@ -1,5 +1,7 @@
 /Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/TitanicMovie.java
+/Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/model/MovieEntity.java
 /Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/Movie.java
+/Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/HibernateConfig.java
 /Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/SpringmvcApplication.java
 /Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/MovieApp.java
 /Users/courtneywilliams/dev/WalmartX3/WMT4b-Unit3-Introduction-to-Spring/src/main/java/com/javaunit3/springmvc/BatmanMovie.java
